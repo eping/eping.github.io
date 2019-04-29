@@ -6,7 +6,7 @@ url: ''
 twitter_username: cneping
 github_username: eping
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
   - jekyll-admin
